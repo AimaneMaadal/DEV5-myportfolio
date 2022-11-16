@@ -12,3 +12,5 @@ https://github.com/AimaneMaadal/DEV5-myportfolio
 | Lab3 (Weather API)  | https://github.com/AimaneMaadal/DEV5-myportfolio/tree/main/lab3 | https://lab3-silk.vercel.app/ |
 | Lab4 (Three JS)  | https://github.com/AimaneMaadal/DEV5-myportfolio/tree/main/lab4 | https://donut-murex.vercel.app/ |
 | Lab5 (Node JS)  | https://github.com/AimaneMaadal/Lab5 | https://codepen.io/aimane223/pen/VwxgwjM + https://lab5-api-aimane.herokuapp.com/ |
+| Lab6 (Vue JS)  | https://github.com/AimaneMaadal/Lab6 | https://lab6-vue.netlify.app/ |
+
