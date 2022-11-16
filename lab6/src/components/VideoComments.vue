@@ -26,8 +26,8 @@ onMounted(() =>{
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                user : "Anonymous",
-                message: comment.value
+                user : "aimane",
+                text: comment.value
             })
         })
         //add comment to VideoComments reactive object
