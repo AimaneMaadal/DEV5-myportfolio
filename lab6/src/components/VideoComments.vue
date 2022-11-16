@@ -26,14 +26,14 @@ onMounted(() =>{
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                user : "aimane",
+                user : "Aimane",
                 text: comment.value
             })
         })
         //add comment to VideoComments reactive object
         VideoComments.comments.push({
-            user: "aimane",
-            text: document.getElementById("message").value
+            user: "Aimane",
+            text: comment.value
         })
         
     }
