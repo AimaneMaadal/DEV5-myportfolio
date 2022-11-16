@@ -45,7 +45,7 @@ onMounted(() =>{
   <div class="video_details">
     <h3>Comments</h3>
     <div v-for="comment in VideoComments.comments" :key="comment.id">
-        <p>{{comment.user}}</p>
+        <p><b>{{comment.user}}</b></p>
         <p>{{comment.text}}</p>
     </div>
     <input type="text" id="message" v-model="comment">
